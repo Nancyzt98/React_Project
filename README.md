@@ -22,7 +22,7 @@ Note: Runs the app in the development mode. Open [http://localhost:3000](http://
 
 
 ## Description
-Our project includes the following features and services:
+Our project is a web application called "Spotlight Hair & SPA". It allows users to browse different hair and SPA services, their related prices, and book an appointment online. Customers can write reviews about their unique experience, and the feedbacks will also be displayed. We provide bilingual versions of website for different users, containing English and French versions. The project includes the following features and services:
 * Navigation bar for browsering different pages
 * Bilingual Service
 * Book appointment
